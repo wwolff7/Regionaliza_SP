@@ -1,0 +1,71 @@
+.blog, .top-nav, .content, .contentTwo {display: none;}
+
+.conteudoie {	
+	width: 1024px;
+	height: 240px;
+	margin: 0px auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	display: block;
+ 	display:block;
+	}
+
+#ie{
+	display:block;
+	width:930px;
+	height:230px;
+	padding-top:50px;
+	padding-bottom:20px;
+}
+
+#ie .meio{
+	width: 1024px;
+	margin:0px auto;
+	position: relative;
+}
+
+#ie .meio .logo{
+	width:424px;
+	height:55px;
+	margin:0px auto;
+	padding:5px;
+	position: relative;
+	background:#F5F5F5;
+}
+
+#ie .meio .titulo{
+	width: 1024px;
+	font-size: 30px;
+	color:#000;
+	float:left;
+	margin:0px auto;
+	text-align: center;
+}
+
+#ie .meio .titulo span{
+	font-size:20px;
+}
+
+#ie .meio .sugestoes{
+	width:350px;
+	height:100px;
+	float:left;
+	margin:0px auto;
+	margin-top: 20px;
+	position: relative;
+	left: 36%;
+}
+
+#ie .meio .sugestoes div{
+	width:40px;
+	height:40px;
+	float: left;
+	margin: 5px;
+	margin-left: 10px;
+}
+
+#ie .meio .sugestoes .nav1{ background-image:url(images/navegadores/firefox.png); cursor: pointer;}
+#ie .meio .sugestoes .nav2{ background-image:url(images/navegadores/chrome.png); cursor: pointer;}
+#ie .meio .sugestoes .nav3{ background-image:url(images/navegadores/safari.png); cursor: pointer; }
+#ie .meio .sugestoes .nav4{ background-image:url(images/navegadores/ie.png); cursor: pointer; }
+#ie .meio .sugestoes .nav5{ background-image:url(images/navegadores/opera.png); cursor: pointer; }
